@@ -1,2 +1,2 @@
 
-Algorithm Exercises in JS from Codility 
+Algorithm Exercises in JS 
